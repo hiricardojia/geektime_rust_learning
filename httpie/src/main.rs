@@ -1,6 +1,3 @@
-fn main() {
-    println!("Hello, world!");
-}
 use anyhow::{anyhow, Result};
 use clap::{AppSettings, Clap};
 use colored::Colorize;

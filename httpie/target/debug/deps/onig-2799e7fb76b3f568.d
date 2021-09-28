@@ -1,0 +1,15 @@
+/home/ricardo/ricardoProjects/rust/learn/geektime_rust_learning/httpie/target/debug/deps/onig-2799e7fb76b3f568.rmeta: /home/ricardo/.cargo/registry/src/github.com-1ecc6299db9ec823/onig-6.2.0/src/lib.rs /home/ricardo/.cargo/registry/src/github.com-1ecc6299db9ec823/onig-6.2.0/src/buffers.rs /home/ricardo/.cargo/registry/src/github.com-1ecc6299db9ec823/onig-6.2.0/src/find.rs /home/ricardo/.cargo/registry/src/github.com-1ecc6299db9ec823/onig-6.2.0/src/flags.rs /home/ricardo/.cargo/registry/src/github.com-1ecc6299db9ec823/onig-6.2.0/src/match_param.rs /home/ricardo/.cargo/registry/src/github.com-1ecc6299db9ec823/onig-6.2.0/src/names.rs /home/ricardo/.cargo/registry/src/github.com-1ecc6299db9ec823/onig-6.2.0/src/region.rs /home/ricardo/.cargo/registry/src/github.com-1ecc6299db9ec823/onig-6.2.0/src/replace.rs /home/ricardo/.cargo/registry/src/github.com-1ecc6299db9ec823/onig-6.2.0/src/syntax.rs /home/ricardo/.cargo/registry/src/github.com-1ecc6299db9ec823/onig-6.2.0/src/tree.rs /home/ricardo/.cargo/registry/src/github.com-1ecc6299db9ec823/onig-6.2.0/src/utils.rs
+
+/home/ricardo/ricardoProjects/rust/learn/geektime_rust_learning/httpie/target/debug/deps/onig-2799e7fb76b3f568.d: /home/ricardo/.cargo/registry/src/github.com-1ecc6299db9ec823/onig-6.2.0/src/lib.rs /home/ricardo/.cargo/registry/src/github.com-1ecc6299db9ec823/onig-6.2.0/src/buffers.rs /home/ricardo/.cargo/registry/src/github.com-1ecc6299db9ec823/onig-6.2.0/src/find.rs /home/ricardo/.cargo/registry/src/github.com-1ecc6299db9ec823/onig-6.2.0/src/flags.rs /home/ricardo/.cargo/registry/src/github.com-1ecc6299db9ec823/onig-6.2.0/src/match_param.rs /home/ricardo/.cargo/registry/src/github.com-1ecc6299db9ec823/onig-6.2.0/src/names.rs /home/ricardo/.cargo/registry/src/github.com-1ecc6299db9ec823/onig-6.2.0/src/region.rs /home/ricardo/.cargo/registry/src/github.com-1ecc6299db9ec823/onig-6.2.0/src/replace.rs /home/ricardo/.cargo/registry/src/github.com-1ecc6299db9ec823/onig-6.2.0/src/syntax.rs /home/ricardo/.cargo/registry/src/github.com-1ecc6299db9ec823/onig-6.2.0/src/tree.rs /home/ricardo/.cargo/registry/src/github.com-1ecc6299db9ec823/onig-6.2.0/src/utils.rs
+
+/home/ricardo/.cargo/registry/src/github.com-1ecc6299db9ec823/onig-6.2.0/src/lib.rs:
+/home/ricardo/.cargo/registry/src/github.com-1ecc6299db9ec823/onig-6.2.0/src/buffers.rs:
+/home/ricardo/.cargo/registry/src/github.com-1ecc6299db9ec823/onig-6.2.0/src/find.rs:
+/home/ricardo/.cargo/registry/src/github.com-1ecc6299db9ec823/onig-6.2.0/src/flags.rs:
+/home/ricardo/.cargo/registry/src/github.com-1ecc6299db9ec823/onig-6.2.0/src/match_param.rs:
+/home/ricardo/.cargo/registry/src/github.com-1ecc6299db9ec823/onig-6.2.0/src/names.rs:
+/home/ricardo/.cargo/registry/src/github.com-1ecc6299db9ec823/onig-6.2.0/src/region.rs:
+/home/ricardo/.cargo/registry/src/github.com-1ecc6299db9ec823/onig-6.2.0/src/replace.rs:
+/home/ricardo/.cargo/registry/src/github.com-1ecc6299db9ec823/onig-6.2.0/src/syntax.rs:
+/home/ricardo/.cargo/registry/src/github.com-1ecc6299db9ec823/onig-6.2.0/src/tree.rs:
+/home/ricardo/.cargo/registry/src/github.com-1ecc6299db9ec823/onig-6.2.0/src/utils.rs:
